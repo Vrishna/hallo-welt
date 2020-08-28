@@ -3,4 +3,4 @@
 use strict;
 
 print "Hallo Welt!\n";
-exot;
+exit;
